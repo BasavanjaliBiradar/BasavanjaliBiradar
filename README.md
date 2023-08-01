@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLsKYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm BasavanjaliBiradar</h1>
+<h1 align="center">Hi 👋, I'm Basavanjali Biradar</h1>
+<div align="center"> <img src"https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile.png"></div>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
