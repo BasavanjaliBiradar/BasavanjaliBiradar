@@ -1,4 +1,4 @@
-![logo](https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/Basavanjali%20Biradar.mp4)
+![logo]([https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/Basavanjali%20Biradar.mp4](https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile.jpg))
 <h1 align="center">Hi 👋, I'm BasavanjaliBiradar</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
