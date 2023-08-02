@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Basavanjali Biradar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basavanjali+Biradar!;" />
+</h1>
+
 <div align="center"> <img src="https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile-64c8f0477e1b0.png"></div>
 <h3 align="center">A passionate Engineer from India</h3>
 
