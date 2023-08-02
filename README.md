@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basavanjali+Biradar!;" />
 </h1>
 
-<div align="center"> <img src="https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile-64c8f0477e1b0.png"></div>
+<h1 align="center"> <img src="https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile-64c8f0477e1b0.png"></h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
