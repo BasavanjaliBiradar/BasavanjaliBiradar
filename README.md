@@ -3,13 +3,13 @@
 </h1>
 
 <h1 align="center"> <img src="https://github.com/BasavanjaliBiradar/BasavanjaliBiradar/blob/main/profile-64c8f0477e1b0.png"></h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavanjalibiradar&label=Profile%20views&color=0e75b6&style=flat" alt="basavanjalibiradar" /> </p>
 
-- 🌱 I’m currently learning **Bigdata,Python,tkinter**
+- 🌱 I’m currently learning **Data Analysis and Data science**
 
 - 🤝 I’m looking for help with **learning new things**
 
